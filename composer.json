@@ -3,5 +3,8 @@
 	"type"             : "wordpress-plugin",
 	"minimum-stability": "dev",
 	"require-dev"      : {},
-	"require"          : {}
+	"require"          : {},
+	"autoload": {
+        	"classmap": [ "includes/" ]
+    	}
 }
