@@ -1,3 +1,7 @@
+Read this first
+===============
+This is a fork of https://github.com/ericmann/wp-session-manager who deserves all the credit for his work. We just made some changes so we can autload the classes with composer.
+
 WP Session Manager
 ==================
 
